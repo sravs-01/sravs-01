@@ -17,20 +17,20 @@
 
 ## Programming Languages & Frameworks
 <!--TODO: Add verilog-->
-![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,sqlite)
+![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,sqlite)](https://skillicons.dev)
 
 ## Tools
 
-![My Skills](https://skills.thijs.gg/icons?i=git,github,linux,autocad,visualstudio,vscode,figma,eclipse,postman)
+[![My Skills](https://skillicons.dev/icons?i=git,github,linux,autocad,visualstudio,vscode,figma,eclipse,postman)](https://skillicons.dev)
 
 ## Skills Overview:
 
 - 💻 **Frontend:** HTML, CSS, JavaScript, Bootstrap
-<!-- - 🛠️ **Backend:** Node.js, Express -->
 - 🗃️ **Database:** MySQL, PostgreSQL, SQLite
-<!-- - 📱 **Mobile App Development:** Flutter, Dart -->
 - 🔄 **Version Control:** Git, GitHub
 - 🚀 **Other:** C, C++, Python, Java, Linux, Figma
+<!-- - 📱 **Mobile App Development:** Flutter, Dart -->
+<!-- - 🛠️ **Backend:** Node.js, Express -->
 
 <!-- GitHub Contributions Graph 
 ## GitHub Contributions Graph
