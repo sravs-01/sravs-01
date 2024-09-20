@@ -32,7 +32,7 @@
 <!-- - 📱 **Mobile App Development:** Flutter, Dart -->
 <!-- - 🛠️ **Backend:** Node.js, Express -->
 
-GitHub Contributions Graph 
+<!-- GitHub Contributions Graph -->
 ## GitHub Contributions Graph
 [![Sravani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sravs-01&bg_color=000000&color=7787ee&line=4258ff&point=051699&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
