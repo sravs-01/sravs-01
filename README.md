@@ -17,7 +17,7 @@
 
 ## Programming Languages & Frameworks
 <!--TODO: Add verilog-->
-![Skills](https://skills.thijs.gg/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,sqlite)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,mysql,postgres,sqlite)](https://skillicons.dev)
 
 ## Tools
 
