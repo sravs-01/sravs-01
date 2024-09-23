@@ -7,7 +7,7 @@
 
 ### About Me
 
-- 👋 Hi, I am [`Sravani Oruganti`].
+- 👋 Hi, I am `Sravani Oruganti`.
 - 🚀 Crafting Digital Dreams, One Line of Code at a Time.
 - 😌 Curious!
 - 👀 Contemplating the Exciting Journey into Competitive Coding.
