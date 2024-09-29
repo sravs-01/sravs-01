@@ -41,13 +41,14 @@
 
 ![Sravani's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=sravs-01&show_icons=true&count_private=true&theme=dark)
 
-<!-- # Top Languages :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sravs-01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Competitive Coding Profile:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/psuman1406?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/osravani01?theme=dark&font=Source%20Code%20Pro&ext=heatmap)
+
+<!-- # Top Languages :
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sravs-01&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 - ## Reach Out To Me
 
