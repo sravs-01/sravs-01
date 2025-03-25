@@ -37,7 +37,7 @@
 [![Sravani's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sravs-01&bg_color=000000&color=7787ee&line=4258ff&point=051699&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 # GitHub Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sravs-01&theme=dark&hide_border=true)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sravs-01&theme=dark&hide_border=true)](https://git.io/streak-stats) -->
 
 ![Sravani's GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=sravs-01&show_icons=true&count_private=true&theme=dark)
 
